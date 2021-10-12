@@ -1,4 +1,18 @@
 html{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background-color: aliceblue;
+}
+
+#menuelement,#menuelement:visited{
+    margin: 1.1em;
+    padding: .3em;
+    font-size: 1.5rem;
+    border: thin solid black;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+#menuelement:hover{
+    background-color: #EEEEEE;
 }
