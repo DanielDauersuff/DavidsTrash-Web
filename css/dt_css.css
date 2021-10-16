@@ -3,6 +3,9 @@ html{
     text-align: center;
     background-color: aliceblue;
 }
+footer{
+    margin-top: 10em;
+}
 
 #menuelement,#menuelement:visited{
     margin: 1.1em;
